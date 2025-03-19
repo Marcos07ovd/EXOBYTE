@@ -1,0 +1,26 @@
+Política de Privacidad
+Última actualización: 20/03/2025
+
+EXOBYTE valora tu privacidad y se compromete a proteger los datos que recopilamos. Esta política explica qué información recopilamos, cómo la usamos y cómo la protegemos.
+
+Información que recopilamos:
+IDs de usuarios, servidores y roles: Para configurar y personalizar las funcionalidades del bot.
+
+Formularios de sugerencias y reportes de bugs: Recopilamos correos electrónicos y contenido enviado para mejorar el servicio.
+
+Cómo usamos esta información:
+Configuración y personalización del bot en servidores.
+
+Responder a sugerencias y solucionar problemas reportados.
+
+Mejorar la experiencia del usuario.
+
+Protección de datos:
+Los datos se almacenan de forma segura y no se comparten con terceros.
+
+Implementamos medidas técnicas para prevenir accesos no autorizados.
+
+Tus derechos:
+Puedes solicitar la eliminación de tus datos contactándonos abriendo un ticket en el servidor de soporte (https://discord.gg/g2z4FJ94My) .
+
+Si tienes dudas sobre esta política, contáctanos mediante un ticket en el servidor de soporte (https://discord.gg/g2z4FJ94My).

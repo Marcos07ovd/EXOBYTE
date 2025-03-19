@@ -1,0 +1,24 @@
+Terms of Use
+Last Updated: 20/03/2025
+
+By using EXOBYTE, you agree to the following terms:
+
+Use of the Bot:
+
+EXOBYTE is designed to enhance the experience within Discord servers.
+
+The bot must not be used for illegal or harmful activities.
+
+Data Collection:
+
+By using EXOBYTE, you agree that we collect and store user IDs, server IDs, role IDs, as well as email addresses and content submitted via forms.
+
+Limitation of Liability:
+
+EXOBYTE is provided "as is" and we do not guarantee it to be error-free.
+
+We are not responsible for any damages arising from the use of the bot.
+
+Modifications:
+
+We reserve the right to modify these terms at any time. Changes will be announced in the "Notices" channel on our support server (https://discord.gg/g2z4FJ94My).
