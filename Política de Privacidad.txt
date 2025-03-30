@@ -1,26 +1,28 @@
 Política de Privacidad
-Última actualización: 20/03/2025
+Última actualización: 30/03/2025
 
 EXOBYTE valora tu privacidad y se compromete a proteger los datos que recopilamos. Esta política explica qué información recopilamos, cómo la usamos y cómo la protegemos.
 
 Información que recopilamos:
-IDs de usuarios, servidores y roles: Para configurar y personalizar las funcionalidades del bot.
 
-Formularios de sugerencias y reportes de bugs: Recopilamos correos electrónicos y contenido enviado para mejorar el servicio.
+- IDs de usuarios, servidores y roles: Para configurar y personalizar las funcionalidades del bot.
+- Registro de entrada/salida en servidores: Monitoreamos cuándo el bot es añadido o eliminado de servidores.
+- Postulaciones (Staff, Dev, Betatester) y afiliaciones: Datos proporcionados voluntariamente a través de formularios en Discord.
+- Sugerencias: Recopiladas mediante el comando /sugerencias_exobyte.
 
 Cómo usamos esta información:
-Configuración y personalización del bot en servidores.
 
-Responder a sugerencias y solucionar problemas reportados.
-
-Mejorar la experiencia del usuario.
+- Configuración y personalización del bot en servidores.
+- Gestión de postulaciones y afiliaciones.
+- Mejora de la experiencia del usuario basada en sugerencias.
+- Seguridad y análisis de adopción del bot (entrada/salida de servidores).
 
 Protección de datos:
-Los datos se almacenan de forma segura y no se comparten con terceros.
 
-Implementamos medidas técnicas para prevenir accesos no autorizados.
+- Los datos se almacenan de forma segura y no se comparten con terceros.
+- Implementamos medidas técnicas para prevenir accesos no autorizados.
 
 Tus derechos:
-Puedes solicitar la eliminación de tus datos contactándonos abriendo un ticket en el servidor de soporte (https://discord.gg/g2z4FJ94My) .
 
-Si tienes dudas sobre esta política, contáctanos mediante un ticket en el servidor de soporte (https://discord.gg/g2z4FJ94My).
+Puedes solicitar la eliminación de tus datos contactándonos en el servidor de soporte:  
+https://discord.gg/g2z4FJ94My
