@@ -2,3 +2,6 @@ Términos de uso y políticas de privacidad del bot de discord -> EXOBYTE // Ter
 
 
 SOLO LECTURA // READ ONLY
+
+
+[![BotBoard](https://www.botboard.gg/api/badge/exobyte?type=servers)](https://www.botboard.gg/bots/exobyte?ref=badge)
