@@ -8,4 +8,4 @@ SOLO LECTURA // READ ONLY
   <img src="https://top.gg/api/widget/1334649382317985854.svg">
 </a>
 
-[![BotBoard](https://www.botboard.gg/api/badge/exobyte?type=servers)](https://www.botboard.gg/bots/exobyte?ref=badge)
+[![BotBoard](https://www.botboard.gg/api/badge/exobyte?type=servers)](https://www.botboard.gg/bots/exobyte?ref=badge) [![BotBoard](https://www.botboard.gg/api/badge/exobyte?type=votes)](https://www.botboard.gg/bots/exobyte?ref=badge) [![BotBoard](https://www.botboard.gg/api/badge/exobyte?type=health)](https://www.botboard.gg/bots/exobyte?ref=badge) [![BotBoard](https://www.botboard.gg/api/badge/exobyte?type=rating)](https://www.botboard.gg/bots/exobyte?ref=badge)
