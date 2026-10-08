@@ -1,5 +1,5 @@
 Privacy Policy
-Last Updated: 30/03/2025
+Last Updated: 09/10/2026
 
 EXOBYTE values your privacy and is committed to protecting the data we collect. This policy explains what information we collect, how we use it, and how we protect it.
 
@@ -7,14 +7,10 @@ Information We Collect:
 
 - User, server, and role IDs: For configuring and personalizing the bot's functionalities.
 - Server join/leave logs: We monitor when the bot is added or removed from servers.
-- Applications (Staff, Dev, Betatester) and partnerships: Data voluntarily provided via Discord forms.
-- Suggestions: Collected through the /sugerencias_exobyte command.
 
 How We Use This Information:
 
 - To configure and customize the bot on servers.
-- To manage applications and partnerships.
-- To improve user experience based on suggestions.
 - For security and adoption analytics (server join/leave tracking).
 
 Data Protection:
