@@ -1,5 +1,5 @@
 Términos de Uso
-Última actualización: 30/03/2025
+Última actualización: 09/10/2026
 
 Al usar EXOBYTE, aceptas los siguientes términos:
 
@@ -12,8 +12,6 @@ Recopilación de datos:
 
 - Recopilamos IDs de usuarios, servidores y roles para su funcionamiento básico.
 - Monitoreamos la entrada/salida del bot en servidores con fines de seguridad.
-- Las postulaciones (Staff/Dev/Betatester) y afiliaciones se gestionan mediante formularios en Discord.
-- Las sugerencias se envían directamente al equipo mediante /sugerencias_exobyte.
 
 Limitación de responsabilidad:
 
