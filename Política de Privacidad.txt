@@ -1,5 +1,5 @@
 Política de Privacidad
-Última actualización: 30/03/2025
+Última actualización: 09/10/2026
 
 EXOBYTE valora tu privacidad y se compromete a proteger los datos que recopilamos. Esta política explica qué información recopilamos, cómo la usamos y cómo la protegemos.
 
@@ -7,8 +7,6 @@ Información que recopilamos:
 
 - IDs de usuarios, servidores y roles: Para configurar y personalizar las funcionalidades del bot.
 - Registro de entrada/salida en servidores: Monitoreamos cuándo el bot es añadido o eliminado de servidores.
-- Postulaciones (Staff, Dev, Betatester) y afiliaciones: Datos proporcionados voluntariamente a través de formularios en Discord.
-- Sugerencias: Recopiladas mediante el comando /sugerencias_exobyte.
 
 Cómo usamos esta información:
 
