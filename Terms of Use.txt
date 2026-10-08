@@ -1,5 +1,5 @@
 Terms of Use
-Last Updated: 30/03/2025
+Last Updated: 09/10/2026
 
 By using EXOBYTE, you agree to the following terms:
 
@@ -12,8 +12,6 @@ Data Collection:
 
 - We collect user, server, and role IDs for core functionality.
 - We monitor bot join/leave events in servers for security purposes.
-- Applications (Staff/Dev/Betatester) and partnerships are managed via Discord forms.
-- Suggestions are submitted directly to our team via /sugerencias_exobyte.
 
 Limitation of Liability:
 
