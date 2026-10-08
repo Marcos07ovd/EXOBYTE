@@ -11,8 +11,6 @@ Información que recopilamos:
 Cómo usamos esta información:
 
 - Configuración y personalización del bot en servidores.
-- Gestión de postulaciones y afiliaciones.
-- Mejora de la experiencia del usuario basada en sugerencias.
 - Seguridad y análisis de adopción del bot (entrada/salida de servidores).
 
 Protección de datos:
